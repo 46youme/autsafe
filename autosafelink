@@ -1,0 +1,10 @@
+<script type='text/javascript'>
+//<![CDATA[
+var setting = {
+ exceptionurl : "google.com,twitter.com",
+ path : "#?o="
+};
+//]]>
+</script>
+<script src='https://rawcdn.githack.com/46youme/autsafe/029c194d9d142fe78d63a545a75fabb37c0e3e86/auto.js'/>
+<script src='https://www.blogger.com/feeds/3685021336214661340/posts/default?alt=json-in-script&amp;max-results=150&amp;callback=showurl'/>
